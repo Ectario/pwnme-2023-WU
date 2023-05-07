@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+  scream-like-viking:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+      args:
+        - FLAG=PWNME{h4st4rd_br0adc4st_d3str0y_s1mple_p4dd1ng}
+    ports:
+      - 3000
