@@ -2,12 +2,12 @@
 
 Crypto writeups
 
-Intro : Just a XOR
+- Intro : Just a XOR
 
-Easy : Gib me Initials of Victor
+- Easy : Gib me Initials of Victor
 
-Medium : Scream Like Viking
+- Medium : Scream Like Viking
 
-Medium : Such Privacy
+- Medium : Such Privacy
 
-Hard : Like a Whispering Entropy
+- Hard : Like a Whispering Entropy
