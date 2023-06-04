@@ -1,0 +1,1 @@
+Description: A developer argued with his DevSecOps friend and did as he pleased: to enter his application, the developer said to himself with his huge brain that the best security would be to do a test that him (and only him, according to him) is able to solve. You have to show him that ultracrepidarianism isn't such a good thing :)
