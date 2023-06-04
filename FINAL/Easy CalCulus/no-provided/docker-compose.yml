@@ -1,0 +1,8 @@
+version: "1"
+services:
+  easy-calculus:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - 3000
