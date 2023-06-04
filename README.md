@@ -1,5 +1,7 @@
 # pwnme-2023-WU
 
+## Qualifs
+
 Crypto writeups
 
 - Intro : Just a XOR (Eteck)
@@ -11,3 +13,11 @@ Crypto writeups
 - Medium : Such Privacy (brutinicolas)
 
 - Hard : Like a Whispering Entropy (ValekoZ)
+
+## Final
+
+- Easy-medium : Count with me (Ectario)
+
+- Medium : Easy CalCulus (Ectario)
+
+- Hard : Symmetrical Lover (Ectario)
